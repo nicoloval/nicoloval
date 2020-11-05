@@ -4,10 +4,10 @@ Most of the time learning something interesting and useless(yet).
 
 - 📫 How to reach me: nicolo.vallarano _at_ imtlucca.it
 - 🌱 I’m currently learning:
-  - ~~mathematics
-  - ~~LaTex
-  - ~~python
-  - ~~html
+  - ~~mathematics~~
+  - ~~LaTex~~
+  - ~~python~~
+  - ~~html~~
   - Hugo to write websites
 
 
