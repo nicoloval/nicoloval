@@ -1,4 +1,15 @@
 ### Hi there 👋
+I'm a PhD student in Italy. Working on statistical methods for network reconstruction, sometimes.
+Most of the time learning something interesting and useless(yet).
+
+- 📫 How to reach me: nicolo.vallarano _at_ imtlucca.it
+- 🌱 I’m currently learning:
+  - ~~mathematics
+  - ~~LaTex
+  - ~~python
+  - ~~html
+  - Hugo to write websites
+
 
 <!--
 **nicoloval/nicoloval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
