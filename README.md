@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I'm a PhD student in Italy. Working on statistical methods for network reconstruction, sometimes.
 Most of the time learning something interesting and useless(yet).
 
