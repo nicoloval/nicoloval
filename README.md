@@ -1,6 +1,6 @@
 ### Hello there 👋
-I'm a PhD student in Italy. Working on statistical methods for network reconstruction, sometimes.
-Most of the time learning something interesting and useless(yet).
+I'm a ~~PhD student in Italy~~ research associate in Zurich. Working on statistical methods for network reconstruction, sometimes.
+Most of the time learning something interesting and useless (yet).
 
 - 📫 How to reach me: nicolo.vallarano _at_ imtlucca.it
 - 🌱 I’m currently learning:
@@ -8,7 +8,8 @@ Most of the time learning something interesting and useless(yet).
   - ~~LaTex~~
   - ~~python~~
   - ~~html~~
-  - Hugo to write websites
+  - ~~Hugo to write websites~~
+  - Crypto consensus protocols
 
 
 <!--
