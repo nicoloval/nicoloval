@@ -1,15 +1,18 @@
 ### Hello there 👋
-I'm a ~~PhD student in Italy~~ research associate in Zurich. Working on statistical methods for network reconstruction, sometimes.
+I'm a ~~PhD student in Italy~~ ~~Senior Research Associate at UZH~~ ???. Working on statistical methods for network reconstruction, sometimes.
 Most of the time learning something interesting and useless (yet).
 
-- 📫 How to reach me: nicolo.vallarano _at_ imtlucca.it
+- 📫 How to reach me: nico.vallarano _at_ gmail.com
 - 🌱 I’m currently learning:
   - ~~mathematics~~
   - ~~LaTex~~
   - ~~python~~
   - ~~html~~
   - ~~Hugo to write websites~~
-  - Crypto consensus protocols
+  - ~~Crypto consensus protocols~~
+  - Rust
+  - WASM
+  - RAGS
 
 
 <!--
